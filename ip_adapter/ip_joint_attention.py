@@ -1,4 +1,7 @@
 # modified from https://github.com/unity-research/IP-Adapter-Instruct/blob/main/ip_adapter/ip_joint_attention.py
+# Copyright 2024 unity-research/IP-Adapter-Instruct
+# Copyright (c) 2025 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: Apache-2.0 
 
 from diffusers.models.transformers.transformer_sd3 import SD3Transformer2DModel
 import torch.nn.functional as F

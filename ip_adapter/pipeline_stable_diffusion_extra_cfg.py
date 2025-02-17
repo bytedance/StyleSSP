@@ -1,7 +1,9 @@
 # modified from https://github.com/unity-research/IP-Adapter-Instruct/blob/main/ip_adapter/ip_adapter_instruct.py
 
 # Copyright 2024 The HuggingFace Team. All rights reserved.
-#
+# Copyright (c) 2025 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: Apache-2.0 
+# 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at

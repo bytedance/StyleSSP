@@ -1,5 +1,7 @@
 # modified from https://github.com/unity-research/IP-Adapter-Instruct/blob/main/ip_adapter/resampler.py
-
+# Copyright 2024 unity-research/IP-Adapter-Instruct
+# Copyright (c) 2025 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: Apache-2.0 
 
 import math
 
