@@ -1,6 +1,6 @@
 # Copyright (c) 2024 jiwoo
 # Copyright (c) 2025 Bytedance Ltd. and/or its affiliates
-# SPDX-License-Identifier: Apache-2.0 OR MIT
+# SPDX-License-Identifier: MIT
 
 import argparse
 import glob
