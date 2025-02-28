@@ -1,4 +1,4 @@
-# Paper: StyleSSP:Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer
+# [CVPR 2025] StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer
 
 ### [Arxiv](https://arxiv.org/abs/2501.11319)
 
